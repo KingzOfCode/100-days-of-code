@@ -12,4 +12,4 @@ Commited to the following: Code for more than an hour for the next 100 days (05/
 
 **Thoughts:** I have been following @CleverQazi on Twitter/Instagram, and I enrolled in his program "Profit with JavaScript".  I will be building projects form the modules provided and the live coaching calls.  I will start a YouTube Vlog for daily thoughts, I think this will help with accountablity.
 
-**Link to work:** [YouTube]()
+**Link to work:** [YouTube]() *will post soon
