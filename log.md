@@ -3,14 +3,14 @@
 ### Day 0: May 19, 2020 (Prep Day)
 
 **Today's Progress**:
-
 Completed: Joined ✓ Forked this repo ✓ Started filling out this log ✓  Delete/Comment Out examples ✓ 
            Followed 100DaysOfCode - Twitter ✓
 
 Committed to the following: Code for more than an hour for the next 100 days (05/20 to 08/28) ✓ Log Daily on Github ✓
                            Tweet progress daily #100DaysOfCode ✓ Encourage/Support more than one person everyday #100DaysOfCode ✓
 
-**Thoughts:** I have been following @CleverQazi on Twitter/Instagram, and I enrolled in his program "Profit with JavaScript".  I will be building projects form the modules provided and the live coaching calls.  I will start a YouTube Vlog for daily thoughts, I think this will help with accountablity.
+**Thoughts:**
+I have been following @CleverQazi on Twitter/Instagram, and I enrolled in his program "Profit with JavaScript".  I will be building projects form the modules provided and the live coaching calls.  I will start a YouTube Vlog for daily thoughts, I think this will help with accountablity.
 
 **Link to work:** [YouTube](https://youtu.be/DEH3JKGZBT8)
 
@@ -29,7 +29,7 @@ Day 1: May 20, 2020 Wednesday (Day 1)
 **Today's Progress**:
 - I finished my homework from the live coaching call (Profit with Javascript Course).  I got stuck on a few things.  I wanted to change my font (google worked), my font color (google worked, but i still need to find out how to change it for certain text), and make the backgroung image transparent (google worked, but it made the whold trading card transparent instead of just the background image).
 
-**Thoughts**
+**Thoughts**:
 - I felt pretty good today.  Learned a few things that i didn't intentionally mean to learn looking for solutions to other problems.  This project helped me get more fimiliar with GitHub too.
 
 **Link(s) to work**
