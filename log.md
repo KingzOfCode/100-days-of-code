@@ -24,8 +24,8 @@
 - I felt pretty good today.  Learned a few things that i didn't intentionally mean to learn looking for solutions to other problems.  This project helped me get more familiar with GitHub too.
 
 **Link(s) to work**
-- [TradingCard]https://github.com/KingzOfCode/SCsLiveCalls
-- [YouTube]*coming soon
+- [TradingCard](https://github.com/KingzOfCode/SCsLiveCalls)
+- [YouTube](https://youtu.be/W8gRPqcoBts)
 
 #### Accountability Logs and Vlogs:
 - https://GitHub.com/KingzOfCode
