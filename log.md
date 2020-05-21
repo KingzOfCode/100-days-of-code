@@ -28,11 +28,11 @@
 - [YouTube]*coming soon
 
 #### Accountability Logs and Vlogs:
-- https://GitHub.com/KingzOfCode
-- https://Twitter.com/KingzOfCode
-- https://YouTube.com/channel/UCgPIxE55cbXbtjd6eEPQrEg
+  - https://GitHub.com/KingzOfCode
+  - https://Twitter.com/KingzOfCode
+  - https://YouTube.com/channel/UCgPIxE55cbXbtjd6eEPQrEg
 
 ##### Free Live JavaScript Challenge (Tell them Shayon sent you)
-- https://www.cleverprogrammer.com/
+    - https://www.cleverprogrammer.com/
 ##### Profit with JavaScript
-- https://www.cleverprogrammer.com/javascript-challenge
+    - https://www.cleverprogrammer.com/javascript-challenge
