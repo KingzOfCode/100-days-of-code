@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
-#100DaysOfCode #Day0of100
 ### Day 0: May 19, 2020 (Prep Day)
+#100DaysOfCode #Day0of100
 
 **Today's Progress**:
 - Completed: Joined ✓ Forked this repo ✓ Started filling out this log ✓ Delete/Comment Out examples ✓ Followed 100DaysOfCode - Twitter ✓
@@ -14,8 +14,8 @@
 - [YouTube](https://youtu.be/DEH3JKGZBT8)
 
 
-#100DaysOfCode #Day1of100
 ### Day 1: May 20, 2020 Wednesday (Day 1)
+#100DaysOfCode #Day1of100
 
 **Today's Progress**:
 - I finished my homework from the live coaching call (Profit with Javascript Course).  I got stuck on a few things.  I wanted to change my font (google worked), my font color (google worked, but i still need to find out how to change it for certain text), and make the backgroung image transparent (google worked, but it made the whold trading card transparent instead of just the background image).
