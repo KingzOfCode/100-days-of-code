@@ -27,6 +27,24 @@
 - [TradingCard](https://github.com/KingzOfCode/SCsLiveCalls)
 - [YouTube](https://youtu.be/W8gRPqcoBts)
 
+
+## Day 2: May 21, 2020 Thursday (Day 2)
+#100DaysOfCode #Day2of100
+
+**Today's Progress**:
+- Built a working digital clock from scratch (HTML "!" "Tab" or !Emmett) during the live coaching call (Profit with JavaScript Course).  We started off with GitHub (website), GitHub desktop, and GitBash.  We went over how to push and pull from desktop, Bash, and VS Code.  added text files in desktop and Bash too.
+- Then we started on the clock.  Movement was a little too fast, I got stuck on a few things trying to google search.  I wanted to change my font (google worked), I added my font color (google worked), and made the background color (google not needed).
+
+**Thoughts**:
+- When I finally caught up, I was able to completed the project.  There is a ">" on my clock for some reason, I didn't figure that out yet.  After that, we push the code to GitHub.  I am getting more familiar with GitHub, his time I played around with the branches to see what they do.  The coaches shared a link that I will check out tomorrow.
+- I will work on getting all of my projects on a live website so that non programmers can see what I've built.
+- https://learngitbranching.js.org/
+- https://help.github.com/en/github/working-with-github-pages
+
+**Link(s) to work**
+- [TradingCard](https://github.com/KingzOfCode/SCsLiveCall0521)
+- [YouTube](https://youtu.be/SOON)
+
 #### Accountability Logs and Vlogs:
 - https://GitHub.com/KingzOfCode
 - https://Twitter.com/KingzOfCode
