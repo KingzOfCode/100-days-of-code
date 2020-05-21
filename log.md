@@ -42,8 +42,8 @@
 - https://help.github.com/en/github/working-with-github-pages
 
 **Link(s) to work**
-- [TradingCard](https://github.com/KingzOfCode/SCsLiveCall0521)
-- [YouTube](https://youtu.be/SOON)
+- [DigitalClock](https://github.com/KingzOfCode/SCsLiveCall0521)
+- [YouTube](https://youtu.be/EgqD6MbFVXg)
 
 #### Accountability Logs and Vlogs:
 - https://GitHub.com/KingzOfCode
