@@ -45,6 +45,21 @@
 - [DigitalClock](https://github.com/KingzOfCode/SCsLiveCall0521)
 - [YouTube](https://youtu.be/EgqD6MbFVXg)
 
+
+
+## Day 3: May 22, 2020 Friday (Day 3)
+#100DaysOfCode #Day3of100
+
+**Today's Progress**:
+- I started working on the website to link my #100DaysOfCode projects.  It was a website we started working on when I first enrolled in the Profit with JavaScript Couse in April 2020.  
+
+**Thoughts**
+- I will be working on it for the next few days.  There is a lot that of code I need to figure out.  I need to play with a CSS so that I can get the website to look way different than the original code I downloaded.  There is some code that I need to figure out its function.
+
+**Link(s) to work**
+- [Portfolio-WebSite](https://github.com/KingzOfCode/Portfolio-Website)
+- [YouTube](ComingSoon)
+
 #### Accountability Logs and Vlogs:
 - https://GitHub.com/KingzOfCode
 - https://Twitter.com/KingzOfCode
