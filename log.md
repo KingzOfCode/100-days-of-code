@@ -46,7 +46,6 @@
 - [YouTube](https://youtu.be/EgqD6MbFVXg)
 
 
-
 ## Day 3: May 22, 2020 Friday (Day 3)
 #100DaysOfCode #Day3of100
 
@@ -55,6 +54,32 @@
 
 **Thoughts**
 - I will be working on it for the next few days.  There is a lot that of code I need to figure out.  I need to play with a CSS so that I can get the website to look way different than the original code I downloaded.  There is some code that I need to figure out its function.
+
+**Link(s) to work**
+- [Portfolio-WebSite](https://github.com/KingzOfCode/Portfolio-Website)
+- [YouTube](ComingSoon)
+
+#### Accountability Logs and Vlogs:
+- https://GitHub.com/KingzOfCode
+- https://Twitter.com/KingzOfCode
+- https://YouTube.com/channel/UCgPIxE55cbXbtjd6eEPQrEg
+
+##### Free Live JavaScript Challenge (Tell them Shayon sent you)
+- https://www.cleverprogrammer.com/
+##### Profit with JavaScript
+- https://www.cleverprogrammer.com/javascript-challenge
+
+
+##Day 4-6: May 23,24,25, 2020 Saturday, Sunday, Monday (Day 4-6)
+#100DaysOfCode #Day4of100 #Day5of100 #Day6of100
+
+https://kingzofcode.imfast.io/
+
+**Today's Progress**:
+- I finished some updates and deployed the live website to link my #100DaysOfCode projects.  It was a website we started working on when I first enrolled in the Profit with JavaScript Couse in April 2020.  I will continue to add to it every time I complete a new project. The link for that will be added to the website via repl.it. 
+
+**Thoughts**
+- I’m still playing around with some code in CSS so that I can get the website to look the way i want. I’m glad it is live! I can’t wait to add all of my projects to it. 
 
 **Link(s) to work**
 - [Portfolio-WebSite](https://github.com/KingzOfCode/Portfolio-Website)
