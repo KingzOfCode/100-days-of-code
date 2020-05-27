@@ -70,7 +70,7 @@
 - https://www.cleverprogrammer.com/javascript-challenge
 
 
-##Day 4-6: May 23,24,25, 2020 Saturday, Sunday, Monday (Day 4-6)
+# Day 4-6: May 23,24,25, 2020 Saturday, Sunday, Monday (Day 4-6)
 #100DaysOfCode #Day4of100 #Day5of100 #Day6of100
 
 https://kingzofcode.imfast.io/
